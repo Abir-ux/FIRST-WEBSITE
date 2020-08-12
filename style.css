@@ -1,0 +1,28 @@
+body{
+    background: #34495e;
+    text-align: center;
+    padding-top: 20px;
+    font-family: sans-serif;
+}
+
+.he{
+    color: white;
+}
+.ha{
+    color: white;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+.hi{
+    padding: 20px;
+    color: none;
+    font-size: 16px;
+    background-color: teal;
+    border-radius: 25px;
+    border: none;
+    transition: 0.8s;
+}
+.hi:hover{
+    color: red;
+    background-color: turquoise;
+}
